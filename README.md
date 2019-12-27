@@ -48,7 +48,7 @@ C. Output
         >>Berfungsi untuk mencetak teks "Done" yang bertanda bahwa program sudah berakhir
 ```
 - Screenshot Input & Ouput
-![Latihan1](https://github.com/alviandwipramono/labspy03/blob/master/program1.png)
+![Latihan1](https://github.com/inaanangin/Labspy3.0/blob/master/program%201.png)
 
 
 # Latihan2
@@ -92,7 +92,7 @@ C. Output
           >>Untuk menampilkan Hasil dengan mencetak bilangan terbesar yaitu y
 ```
 - Screenshot Input & Output
-![Latihan2](https://github.com/alviandwipramono/labspy03/blob/master/latihan2.png)
+![Latihan2](https://github.com/inaanangin/Labspy3.0/blob/master/latihan1.png)
 
 # Program1
 - Source Code
@@ -157,8 +157,8 @@ print("\nTotal Laba adalah: ",untung)          ## Menghitung total laba selama 8
       >> Mencetak total laba
 ```
 - Screenshot Input
-![Program1(Input)](https://github.com/alviandwipramono/labspy03/blob/master/input.png)
+![Program1(Input)](https://github.com/inaanangin/Labspy3.0/blob/master/input.png)
 
 - Screenshot Output
-![Program1(Output)](https://github.com/alviandwipramono/labspy03/blob/master/output.png)
+![Program1(Output)](https://github.com/inaanangin/Labspy3.0/blob/master/output.png)
 
